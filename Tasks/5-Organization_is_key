@@ -1,0 +1,12 @@
+Task:05
+*Change your working directory to /root
+*Then, create a directory school_is_amazing
+Advices:
+
+Don’t forget to validate your current working directory
+Don’t forget to display the list of directories of your current directory to validate the creation of the directory
+
+Resolution:
+
+cd /root
+mkdir school_is_amazing

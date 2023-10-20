@@ -1,0 +1,22 @@
+Task:01
+
+1.Change your working directory to /root
+2.Then, copy the file school to /tmp
+
+Advices:
+
+Don’t forget to validate your current working directory
+Don’t forget to display the list of files of your current directory to validate the copy of the file
+
+Resolution:
+
+cd /root
+cp /root/school /tmp
+
+cd = change directory
+cp = copy files or directories 
+	Syntax:
+	cp [location_file] [destination]
+Example:
+	cd /root/school /tmp
+	

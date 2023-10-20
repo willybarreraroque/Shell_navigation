@@ -1,0 +1,12 @@
+Task:04
+*Change your working directory to /root
+*Then, delete the file ready_to_be_removed
+Advices:
+
+Don’t forget to validate your current working directory
+Don’t forget to display the list of files of your current directory to validate the removal of the file
+
+Resolution:
+
+cd /root
+rm ready_to_be_removed

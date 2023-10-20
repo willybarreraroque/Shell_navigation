@@ -1,3 +1,16 @@
-Task-0:
+Task:0
 1.Change your working directory to /root
 2.Then, create an empty file so_cool
+Advices:
+
+Don’t forget to validate your current working directory
+Don’t forget to display the list of files of your current directory to validate the creation of the new file
+
+Resolution:
+
+cd /root
+touch so_cool
+
+Notes:
+cd = Change directory.
+touch = Create a empty file.

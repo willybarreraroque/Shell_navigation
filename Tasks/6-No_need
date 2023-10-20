@@ -1,0 +1,10 @@
+Task:06
+*Change your working directory to /root
+*Then, remove the directory empty_directory
+Advices:
+
+Don’t forget to validate your current working directory
+Don’t forget to display the list of directories of your current directory to validate the removal of the directory
+
+cd /root
+rm -r empty_directory

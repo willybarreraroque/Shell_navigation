@@ -1,0 +1,13 @@
+Task:02
+*Change your working directory to /root
+*Then, rename the file old_school to new_school (in the same directory)
+
+Advices:
+
+Don’t forget to validate your current working directory
+Don’t forget to display the list of files of your current directory to validate the renaming of the file
+
+Resolution:
+
+cd /root
+mv /root/old_school /root/new_school
